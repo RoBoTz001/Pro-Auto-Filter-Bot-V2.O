@@ -6,7 +6,7 @@ class Translation(object):
     
     START_TEXT = """👋Hey {},
 
-I'm an Autofilter bot v2.0 and you can not Add Me to your Group. I was made for <a href="t.me/{}">this one group</a>. So don't waste your Time...\n\n{}"""
+I'm an ബണ്ടു ᴹᴹ ᴳᴿᴼᵁᴾ and you can not Add Me to your Group. I was made for <a href="t.me/{}">this one group</a>. So don't waste your Time...\n\n{}"""
 
 
     HELP_TEXT = """
@@ -31,13 +31,13 @@ I'm an Autofilter bot v2.0 and you can not Add Me to your Group. I was made for 
 <b><a href="https://t.me/Mo_Tech_YT">© Mo Tech YT</a></b>
 """
     
-    ABOUT_TEXT = """<b>☞ 📃Name</b> : <b>Pro Auto Filter Bot V2.O</b>
+    ABOUT_TEXT = """<b>☞ 📃Name</b> : <b>ബണ്ടു ᴹᴹ ᴳᴿᴼᵁᴾ</b>
 
 <b>☞ 🗣️Language</b> : Python
 
 <b>☞ 📚Library</b> : Pyrogram Asyncio 1.13.0
 
-<b>☞ 📖Source Code</b> : <a href="https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2.o">😋Click Here</a></b>
+<b>☞ 📖Source Code</b> : <a href="https://github.com/RoBoTz001/Pro-Auto-Filter-Bot-V2.O">😋Click Here</a></b>
 """
 
-    TEAM = """Team [MoTech YT](t.me/Mo_Tech_YT)"""
+    TEAM = """Team [DeeZuZza](https://t.me/cinemaclubcc)"""
