@@ -63,7 +63,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🤖 Bot Updates🤖', url=f"t.me/{MT_UPDATES}"
+                                    '📺 Join Channel 📺', url=f"t.me/{MT_UPDATES}"
                                 )
                         ]
                     ]
@@ -99,7 +99,7 @@ async def start(bot, update):
 async def help(bot, update):
     buttons = [[
         InlineKeyboardButton('Support', url='https://t.me/Moviez_group_mg'),
-        InlineKeyboardButton('Bot Updates', url=f't.me/{MT_UPDATES}')
+        InlineKeyboardButton('Updates channel', url=f't.me/{MT_UPDATES}')
     ],[
         InlineKeyboardButton('🏅 Join Channel 🏅', url=f'{MT_LINK}')
     ],[   
